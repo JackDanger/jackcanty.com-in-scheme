@@ -1,9 +1,14 @@
 #!/usr/bin/ruby
 require 'rubygems'
 require 'sinatra'
+require 'net/http'
 
 get '/' do
   haml :index
+end
+
+get '/twitter' do
+  send_data Net::HTTP.get(URI.parse('http://twitter.com/statuses/user_timeline/3496901.atom')), :type => 'application/xml'
 end
 
 get '/stylesheet.css' do
