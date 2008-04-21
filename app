@@ -12,9 +12,10 @@ get '/stylesheet.css' do
 end
 
 get '/jquery.js' do
-  send_file Sinatra.application.options.views + '/jquery.lite.js'
+  send_file Sinatra.application.options.views + '/jquery.lite.js', :disposition => 'inline'
 end
 
 get '/javascript.js' do
-  send_file Sinatra.application.options.views + '/javascript.js'
+  send_file Sinatra.application.options.views + '/javascript.js', :disposition => 'inline'
+
 end
