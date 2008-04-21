@@ -1,11 +1,10 @@
 $(function(){
   $.ajax({
-    url: 'http:///twitter.com/statuses/user_timeline/3496901.rss',
+    url: 'http://jackcanty.com/twitter.xml',
     type: 'GET',
     dataType: 'xml',
     timeout: 1000,
-    error: function(){
-      alert('couldn\'t retrieve status')
+    error: function(error){
     },
     success: function(xml){
       $(xml).find('entry').each(function(){

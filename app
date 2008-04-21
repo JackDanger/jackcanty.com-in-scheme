@@ -7,7 +7,7 @@ get '/' do
   haml :index
 end
 
-get '/twitter' do
+get '/twitter.xml' do
   send_data Net::HTTP.get(URI.parse('http://twitter.com/statuses/user_timeline/3496901.atom')), :type => 'application/xml'
 end
 
