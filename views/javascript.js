@@ -5,11 +5,18 @@ $(function(){
     dataType: 'xml',
     timeout: 1000,
     error: function(error){
+      $('status').text = 'currently: developing software'
     },
     success: function(xml){
-      $(xml).find('entry').each(function(){
-        var status_text = $(this).title().gsub(/$jackdanger: /, '')
-	$('#status').text = status_text;
+      twitters = $(xml).find('entry');
+      var after_first = false;
+      twitters.each(function(){
+        if(after_first){
+          $('#status').text($(this).find('title').text());
+        }else{
+          $('#status').text($(this).find('title').text());
+          after_first = true;
+        }
       });
     }
   })
