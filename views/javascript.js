@@ -12,9 +12,9 @@ $(function(){
       var after_first = false;
       twitters.each(function(){
         if(after_first){
-          $('#status').text($(this).find('title').text());
+	
         }else{
-          $('#status').text($(this).find('title').text());
+          $('#status').text($(this).find('title').text().replace(/^jackdanger: /, ''));
           after_first = true;
         }
       });
