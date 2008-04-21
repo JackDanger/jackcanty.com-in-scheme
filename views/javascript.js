@@ -9,14 +9,16 @@ $(function(){
     },
     success: function(xml){
       twitters = $(xml).find('entry');
-      var after_first = false;
+      var i = 0;
       twitters.each(function(){
-        if(after_first){
-	
-        }else{
-          $('#status').text($(this).find('title').text().replace(/^jackdanger: /, ''));
-          after_first = true;
-        }
+        text = $(this).find('title').text().replace(/^jackdanger: /, '')
+        if(0 == i)
+          $('#status').text(text);
+	else if(19 == i)
+	  $('#twitters').append('<div class="alt last">'+text+'</div>');
+        else
+	  $('#twitters').append('<div class="alt">'+text+'</div><hr class="small" />');
+	i++;
       });
     }
   })
