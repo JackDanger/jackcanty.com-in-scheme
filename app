@@ -11,6 +11,10 @@ get '/stylesheet.css' do
   sass :stylesheet
 end
 
-get '/javascript.js' do
+get '/jquery.js' do
   send_file Sinatra.application.options.views + '/jquery.lite.js'
+end
+
+get '/javascript.js' do
+  send_file Sinatra.application.options.views + '/javascript.js'
 end
