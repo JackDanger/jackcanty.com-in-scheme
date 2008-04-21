@@ -1,15 +1,12 @@
 #!/usr/bin/ruby
-require 'rubygems'
-require 'sinatra'
-require 'net/http'
+require File.join(File.dirname(__FILE__), 'config.rb')
 
 get '/' do
   haml :index
 end
 
-get '/twitter.xml' do
-  send_data Net::HTTP.get(URI.parse('http://twitter.com/statuses/user_timeline/3496901.atom')), :type => 'application/xml'
-end
+resources '/twitter.xml' => 'http://twitter.com/statuses/user_timeline/3496901.atom',
+          '/dailyoffice.xml'  => 'http://api.flickr.com/services/feeds/photoset.gne?set\x3d72157600518706193\x26nsid\x3d30691816@N00\x26lang\x3den-us'
 
 get '/stylesheet.css' do
   header 'Content-Type' => 'text/css; charset=utf-8'
@@ -22,5 +19,5 @@ end
 
 get '/javascript.js' do
   send_file Sinatra.application.options.views + '/javascript.js', :disposition => 'inline'
-
 end
+
