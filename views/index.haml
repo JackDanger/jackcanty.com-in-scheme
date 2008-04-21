@@ -1,10 +1,17 @@
 %html
   %head
     %link{:rel => "stylesheet", :href => "/stylesheet.css", :type => "text/css", :media => "screen, projection"}
+    %script{:type => 'text/javascript', :src => '/javascript.js'}
   %body
 
     .container
       %h1 Jack Danger Canty
       %hr
+      %h2#status
+      %hr
+
+      .span-7.colborder
+      .span-8.colborder
+      .span-7.colborder.last
 
     = %Q(<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script type="text/javascript">var pageTracker = _gat._getTracker("UA-331450-9");pageTracker._initData();pageTracker._trackPageview();</script>)
