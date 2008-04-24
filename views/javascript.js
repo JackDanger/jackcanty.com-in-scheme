@@ -1,6 +1,6 @@
 $(function(){
   $.ajax({
-    url: 'http://jackcanty.com/twitter.xml',
+    url: '/twitter.xml',
     type: 'GET',
     dataType: 'xml',
     timeout: 1000,
