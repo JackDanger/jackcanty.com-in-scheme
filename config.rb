@@ -6,7 +6,12 @@ require 'net/http'
 def resources(names = {})
   names.each do |local, remote|
     get local do
-      send_data Net::HTTP.get(URI.parse(remote)), :type => 'application/xml'
+      uri = URI.parse(remote)
+      (1..5).each do |n|
+        @resource_body = Net::HTTP.get uri
+        break unless '' == @resource_body.strip
+      end
+      send_data @resource_body, :type => 'application/xml'
     end
   end
 end
