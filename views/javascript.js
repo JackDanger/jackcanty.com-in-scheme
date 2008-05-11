@@ -25,3 +25,21 @@ $(function(){
     }
   })
 })
+$(function(){
+  $.ajax({
+    url: '/dailyoffice.xml',
+    type: 'GET',
+    dataType: 'xml',
+    timeout: 1000,
+    success: function(xml){
+      photos = $(xml).find('item');
+      photos.each(function(){
+        link = $(this).find('link:first').text();
+        src = $(this).find('thumbnail').attr('url');
+	description = $(this).find('description').text();
+	description = ''
+        $('#photos').append($('<a href="'+link+'" title="'+description+'"></a>').append('<img src="'+src+'" />'));
+      });
+    }
+  })
+})
