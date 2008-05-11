@@ -33,12 +33,18 @@ $(function(){
     timeout: 1000,
     success: function(xml){
       photos = $(xml).find('item');
+      var i = 0;
+      $('#photos').append('<div class="container"></div>');
       photos.each(function(){
+	if(i % 5 == 0){
+          $('#photos').append($('<div class="container"></div>'));
+	}
+        i++;
         link = $(this).find('link:first').text();
         src = $(this).find('thumbnail').attr('url');
 	description = $(this).find('description').text();
 	description = ''
-        $('#photos').append($('<a href="'+link+'" title="'+description+'"></a>').append('<img src="'+src+'" />'));
+        $('#photos .container:last').append($('<div class="span-3"></div>').append($('<a href="'+link+'" title="'+description+'"></a>').append($('<p></p>').append('<img src="'+src+'" />'))));
       });
     }
   })
