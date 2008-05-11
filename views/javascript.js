@@ -36,7 +36,7 @@ $(function(){
       var i = 0;
       $('#photos').append('<div class="container"></div>');
       photos.each(function(){
-	if(i % 5 == 0){
+	if(i % 5 == 0 && i != 0){
           $('#photos').append($('<div class="container"></div>'));
 	}
         i++;
@@ -44,7 +44,7 @@ $(function(){
         src = $(this).find('thumbnail').attr('url');
 	description = $(this).find('description').text();
 	description = ''
-        $('#photos .container:last').append($('<div class="span-3"></div>').append($('<a href="'+link+'" title="'+description+'"></a>').append($('<p></p>').append('<img src="'+src+'" />'))));
+        $('#photos .container:last').append($('<div class="span-3" style="text-align: center"></div>').append($('<a href="'+link+'" title="'+description+'"></a>').append($('<p></p>').append('<img src="'+src+'" />'))));
       });
     }
   })
