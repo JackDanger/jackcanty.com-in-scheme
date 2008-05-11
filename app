@@ -13,11 +13,6 @@ get '/stylesheet.css' do
   sass :stylesheet
 end
 
-get '/custom.css' do
-  header 'Content-Type' => 'text/css; charset=utf-8'
-  sass :custom
-end
-
 get '/jquery.js' do
   send_file Sinatra.application.options.views + '/jquery.lite.js', :disposition => 'inline'
 end
