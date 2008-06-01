@@ -1,4 +1,5 @@
 (define index (load "views/index.xml.scm"))
+;; (define index (quote (html (body (h1 "bus scheme") ) ) ) )
 ;; (defresource "/" (quote (html (body (h1 "Bus Scheme") ) )))
-(defresource "/" 'index) 
+(defresource "/" index) 
 (webwait)
