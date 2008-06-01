@@ -7,7 +7,14 @@
       (script type "text/javascript" src "/javascript.js")
     )
     (body 
-      (h1 "Bus Scheme")
+      (div class container 
+        (h1 "Jack Danger Canty")
+        (hr)
+        (h2 id "status" class "alt" "Current Status:  out programming")
+        (hr)
+        (div id "photos" class "span-15 prepend-1 colborder" (span))
+        (div id "twitters" class "span-7 last")
+      )
     )
   )
 )
