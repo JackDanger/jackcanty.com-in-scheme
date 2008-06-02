@@ -1,11 +1,12 @@
-(xml 
+(xml
   (html
     (head
       (title "Jack Danger Canty")
       (link rel "stylesheet" href "/stylesheet.css" type "text/css" media "screen, projection")
+      (link rel "stylesheet" href "/blueprint.css" type "text/css" media "screen, projection")
     )
-    (body 
-      (div class container 
+    (body
+      (div class container
         (h1 "Jack Danger Canty")
         (hr)
         (h2 id "status" class "alt" "Current Status:  out programming")
@@ -14,7 +15,7 @@
         (div id "twitters" class "span-7 last")
       )
     )
-    (script type "text/javascript" src "http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.js")
+    (script type "text/javascript" src "/jquery.js")
     (script type "text/javascript" src "/javascript.js")
   )
 )
