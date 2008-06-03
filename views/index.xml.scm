@@ -17,5 +17,7 @@
     )
     (script type "text/javascript" src "/jquery.js")
     (script type "text/javascript" src "/javascript.js")
+    (script type "text/javascript" src "http://www.google-analytics.com/ga.js" type "text/javascript")
+    (script type "text/javascript" "var pageTracker = _gat._getTracker('UA-331450-9');pageTracker._initData();pageTracker._trackPageview();")
   )
 )
