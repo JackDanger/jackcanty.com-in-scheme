@@ -4,6 +4,8 @@
       (title "Jack Danger Canty")
       (link rel "stylesheet" href "/stylesheet.css" type "text/css" media "screen, projection")
       (link rel "stylesheet" href "/blueprint.css" type "text/css" media "screen, projection")
+      (link rel "openid.server" href "http://www.myopenid.com/server")
+      (link rel "openid.delegate" href "http://jackdanger.myopenid.com")
     )
     (body
       (div class container

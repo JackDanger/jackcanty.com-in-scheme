@@ -1,0 +1,2 @@
+(defresource "/" "waiting...")
+(webwait)

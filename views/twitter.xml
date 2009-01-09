@@ -1,167 +1,268 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
   <title>Twitter / jackdanger</title>
-  <id>tag:twitter.com:Statuses</id>
-  <link href="http://twitter.com/jackdanger" rel="alternate" type="text/html"/>
+  <id>tag:twitter.com,2007:Status</id>
+  <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger"/>
+  <updated>2009-01-09T00:00:05+00:00</updated>
   <subtitle>Twitter updates from Jack Danger Canty / jackdanger.</subtitle>
-  <entry>
-    <title>jackdanger: favorite moment from yesterday: Josh Susser introducing himself and thanking me for "my contributions."  Made me feel like a damned king.</title>
-    <content type="html">jackdanger: favorite moment from yesterday: Josh Susser introducing himself and thanking me for "my contributions."  Made me feel like a damned king.</content>
-    <id>tag:twitter.com,2008-06-02T00:40:26+00:00:http://twitter.com/jackdanger/statuses/824883584</id>
-    <published>2008-06-02T00:40:26+00:00</published>
-    <updated>2008-06-02T00:40:26+00:00</updated>
-    <link href="http://twitter.com/jackdanger/statuses/824883584" rel="alternate" type="text/html"/>
-  </entry>
-  <entry>
-    <title>jackdanger: Apparently the Coast Starlight was almost on time today.  Then some warning light went off at nearby bridge.  Setting up camp in the station</title>
-    <content type="html">jackdanger: Apparently the Coast Starlight was almost on time today.  Then some warning light went off at nearby bridge.  Setting up camp in the station</content>
-    <id>tag:twitter.com,2008-06-02T00:12:28+00:00:http://twitter.com/jackdanger/statuses/824872337</id>
-    <published>2008-06-02T00:12:28+00:00</published>
-    <updated>2008-06-02T00:12:28+00:00</updated>
-    <link href="http://twitter.com/jackdanger/statuses/824872337" rel="alternate" type="text/html"/>
-  </entry>
-  <entry>
-    <title>jackdanger: Bus Scheme is now running live in the wild.  Going to port my home page to it on the train ride home tomorrow.</title>
-    <content type="html">jackdanger: Bus Scheme is now running live in the wild.  Going to port my home page to it on the train ride home tomorrow.</content>
-    <id>tag:twitter.com,2008-05-31T23:34:13+00:00:http://twitter.com/jackdanger/statuses/824279488</id>
-    <published>2008-05-31T23:34:13+00:00</published>
-    <updated>2008-05-31T23:34:13+00:00</updated>
-    <link href="http://twitter.com/jackdanger/statuses/824279488" rel="alternate" type="text/html"/>
-  </entry>
-  <entry>
-    <title>jackdanger: @technomancy fair enough - but I did just fix the xml tests: http://tinyurl.com/4cu6xg (yippee!)</title>
-    <content type="html">jackdanger: @technomancy fair enough - but I did just fix the xml tests: http://tinyurl.com/4cu6xg (yippee!)</content>
-    <id>tag:twitter.com,2008-05-31T18:41:40+00:00:http://twitter.com/jackdanger/statuses/824151586</id>
-    <published>2008-05-31T18:41:40+00:00</published>
-    <updated>2008-05-31T18:41:40+00:00</updated>
-    <link href="http://twitter.com/jackdanger/statuses/824151586" rel="alternate" type="text/html"/>
-  </entry>
-  <entry>
-    <title>jackdanger: sitting in RailsConf hallway.  trying to figure out how scheme in Ruby does XML.</title>
-    <content type="html">jackdanger: sitting in RailsConf hallway.  trying to figure out how scheme in Ruby does XML.</content>
-    <id>tag:twitter.com,2008-05-31T18:27:38+00:00:http://twitter.com/jackdanger/statuses/824145002</id>
-    <published>2008-05-31T18:27:38+00:00</published>
-    <updated>2008-05-31T18:27:38+00:00</updated>
-    <link href="http://twitter.com/jackdanger/statuses/824145002" rel="alternate" type="text/html"/>
-  </entry>
-  <entry>
-    <title>jackdanger: best experience from the conf so far: Phil Hagelberg pretending I'm not an idiot as he teaches me Bus-Scheme. http://technomancy.us/98</title>
-    <content type="html">jackdanger: best experience from the conf so far: Phil Hagelberg pretending I'm not an idiot as he teaches me Bus-Scheme. http://technomancy.us/98</content>
-    <id>tag:twitter.com,2008-05-31T16:27:35+00:00:http://twitter.com/jackdanger/statuses/824086073</id>
-    <published>2008-05-31T16:27:35+00:00</published>
-    <updated>2008-05-31T16:27:35+00:00</updated>
-    <link href="http://twitter.com/jackdanger/statuses/824086073" rel="alternate" type="text/html"/>
-  </entry>
-  <entry>
-    <title>jackdanger: free beer at the lucky lab.  I'm paying for a while :-)</title>
-    <content type="html">jackdanger: free beer at the lucky lab.  I'm paying for a while :-)</content>
-    <id>tag:twitter.com,2008-05-31T05:19:20+00:00:http://twitter.com/jackdanger/statuses/823831109</id>
-    <published>2008-05-31T05:19:20+00:00</published>
-    <updated>2008-05-31T05:19:20+00:00</updated>
-    <link href="http://twitter.com/jackdanger/statuses/823831109" rel="alternate" type="text/html"/>
-  </entry>
-  <entry>
-    <title>jackdanger: hacking on an experimental project that has a 0% chance of success.  I'm wading in deep, deep water.</title>
-    <content type="html">jackdanger: hacking on an experimental project that has a 0% chance of success.  I'm wading in deep, deep water.</content>
-    <id>tag:twitter.com,2008-05-30T20:38:33+00:00:http://twitter.com/jackdanger/statuses/823597117</id>
-    <published>2008-05-30T20:38:33+00:00</published>
-    <updated>2008-05-30T20:38:33+00:00</updated>
-    <link href="http://twitter.com/jackdanger/statuses/823597117" rel="alternate" type="text/html"/>
-  </entry>
-  <entry>
-    <title>jackdanger: Chillin' at the caboosery.  Looking forward to lunch with new or old friends.</title>
-    <content type="html">jackdanger: Chillin' at the caboosery.  Looking forward to lunch with new or old friends.</content>
-    <id>tag:twitter.com,2008-05-30T18:18:58+00:00:http://twitter.com/jackdanger/statuses/823523301</id>
-    <published>2008-05-30T18:18:58+00:00</published>
-    <updated>2008-05-30T18:18:58+00:00</updated>
-    <link href="http://twitter.com/jackdanger/statuses/823523301" rel="alternate" type="text/html"/>
-  </entry>
-  <entry>
-    <title>jackdanger: loved th joyent-sponsored free beer night.  In fact, I can't quite see straight.  Thanks accelerators! http://joyent.com/accelerator</title>
-    <content type="html">jackdanger: loved th joyent-sponsored free beer night.  In fact, I can't quite see straight.  Thanks accelerators! http://joyent.com/accelerator</content>
-    <id>tag:twitter.com,2008-05-30T05:04:19+00:00:http://twitter.com/jackdanger/statuses/823085085</id>
-    <published>2008-05-30T05:04:19+00:00</published>
-    <updated>2008-05-30T05:04:19+00:00</updated>
-    <link href="http://twitter.com/jackdanger/statuses/823085085" rel="alternate" type="text/html"/>
-  </entry>
-  <entry>
-    <title>jackdanger: @defunkt was said dude wearing a blue dress shirt and dockers?  If so he probably works in Redmond.  Hard to believe somebody paid for one.</title>
-    <content type="html">jackdanger: @defunkt was said dude wearing a blue dress shirt and dockers?  If so he probably works in Redmond.  Hard to believe somebody paid for one.</content>
-    <id>tag:twitter.com,2008-05-29T23:31:01+00:00:http://twitter.com/jackdanger/statuses/822905209</id>
-    <published>2008-05-29T23:31:01+00:00</published>
-    <updated>2008-05-29T23:31:01+00:00</updated>
-    <link href="http://twitter.com/jackdanger/statuses/822905209" rel="alternate" type="text/html"/>
-  </entry>
-  <entry>
-    <title>jackdanger: met alex vollmer and mike mondragon.  They seem to be doing things with gems and rubinius that are rarely tried.</title>
-    <content type="html">jackdanger: met alex vollmer and mike mondragon.  They seem to be doing things with gems and rubinius that are rarely tried.</content>
-    <id>tag:twitter.com,2008-05-29T22:18:41+00:00:http://twitter.com/jackdanger/statuses/822855166</id>
-    <published>2008-05-29T22:18:41+00:00</published>
-    <updated>2008-05-29T22:18:41+00:00</updated>
-    <link href="http://twitter.com/jackdanger/statuses/822855166" rel="alternate" type="text/html"/>
-  </entry>
-  <entry>
-    <title>jackdanger: @teflonted I'll take you out to a pdx bar to celebrate a safe landing.</title>
-    <content type="html">jackdanger: @teflonted I'll take you out to a pdx bar to celebrate a safe landing.</content>
-    <id>tag:twitter.com,2008-05-29T22:09:31+00:00:http://twitter.com/jackdanger/statuses/822846903</id>
-    <published>2008-05-29T22:09:31+00:00</published>
-    <updated>2008-05-29T22:09:31+00:00</updated>
-    <link href="http://twitter.com/jackdanger/statuses/822846903" rel="alternate" type="text/html"/>
-  </entry>
-  <entry>
-    <title>jackdanger: 618 NW Glisan it is then.</title>
-    <content type="html">jackdanger: 618 NW Glisan it is then.</content>
-    <id>tag:twitter.com,2008-05-29T21:30:11+00:00:http://twitter.com/jackdanger/statuses/822816528</id>
-    <published>2008-05-29T21:30:11+00:00</published>
-    <updated>2008-05-29T21:30:11+00:00</updated>
-    <link href="http://twitter.com/jackdanger/statuses/822816528" rel="alternate" type="text/html"/>
-  </entry>
-  <entry>
-    <title>jackdanger: got to pdx, got lunch, and then suddenly realized I have no idea where the ENTP hq/caboosery is.  Can anybody help a fool out?</title>
-    <content type="html">jackdanger: got to pdx, got lunch, and then suddenly realized I have no idea where the ENTP hq/caboosery is.  Can anybody help a fool out?</content>
-    <id>tag:twitter.com,2008-05-29T21:21:27+00:00:http://twitter.com/jackdanger/statuses/822811187</id>
-    <published>2008-05-29T21:21:27+00:00</published>
-    <updated>2008-05-29T21:21:27+00:00</updated>
-    <link href="http://twitter.com/jackdanger/statuses/822811187" rel="alternate" type="text/html"/>
-  </entry>
-  <entry>
-    <title>jackdanger: about to arrive in pdx.  Amtrak was worth every cent.  some of my other cents are about to go to Chipotle in exchange for lunch.</title>
-    <content type="html">jackdanger: about to arrive in pdx.  Amtrak was worth every cent.  some of my other cents are about to go to Chipotle in exchange for lunch.</content>
-    <id>tag:twitter.com,2008-05-29T20:27:10+00:00:http://twitter.com/jackdanger/statuses/822776847</id>
-    <published>2008-05-29T20:27:10+00:00</published>
-    <updated>2008-05-29T20:27:10+00:00</updated>
-    <link href="http://twitter.com/jackdanger/statuses/822776847" rel="alternate" type="text/html"/>
-  </entry>
-  <entry>
-    <title>jackdanger: @danbenjamin all the seats with power outlets on my train are accupied by people reading AWDWR.</title>
-    <content type="html">jackdanger: @danbenjamin all the seats with power outlets on my train are accupied by people reading AWDWR.</content>
-    <id>tag:twitter.com,2008-05-29T17:49:50+00:00:http://twitter.com/jackdanger/statuses/822674617</id>
-    <published>2008-05-29T17:49:50+00:00</published>
-    <updated>2008-05-29T17:49:50+00:00</updated>
-    <link href="http://twitter.com/jackdanger/statuses/822674617" rel="alternate" type="text/html"/>
-  </entry>
-  <entry>
-    <title>jackdanger: @technoweenie more coming.  fun people often show up late.  lazy people show up late as well.  I come to represent group #2.</title>
-    <content type="html">jackdanger: @technoweenie more coming.  fun people often show up late.  lazy people show up late as well.  I come to represent group #2.</content>
-    <id>tag:twitter.com,2008-05-29T17:42:18+00:00:http://twitter.com/jackdanger/statuses/822670184</id>
-    <published>2008-05-29T17:42:18+00:00</published>
-    <updated>2008-05-29T17:42:18+00:00</updated>
-    <link href="http://twitter.com/jackdanger/statuses/822670184" rel="alternate" type="text/html"/>
-  </entry>
-  <entry>
-    <title>jackdanger: I'm going to caboose conf on a fucking TRAIN.  That plus the Ruby-themed t-shirt I'm wearing makes me THEMATICALLY CONSISTENT BITCH.</title>
-    <content type="html">jackdanger: I'm going to caboose conf on a fucking TRAIN.  That plus the Ruby-themed t-shirt I'm wearing makes me THEMATICALLY CONSISTENT BITCH.</content>
-    <id>tag:twitter.com,2008-05-29T16:23:36+00:00:http://twitter.com/jackdanger/statuses/822619311</id>
-    <published>2008-05-29T16:23:36+00:00</published>
-    <updated>2008-05-29T16:23:36+00:00</updated>
-    <link href="http://twitter.com/jackdanger/statuses/822619311" rel="alternate" type="text/html"/>
-  </entry>
-  <entry>
-    <title>jackdanger: At Seattle train station.  Hacking in terminal.  Gonna hack in the dining car soon.</title>
-    <content type="html">jackdanger: At Seattle train station.  Hacking in terminal.  Gonna hack in the dining car soon.</content>
-    <id>tag:twitter.com,2008-05-29T16:22:13+00:00:http://twitter.com/jackdanger/statuses/822618317</id>
-    <published>2008-05-29T16:22:13+00:00</published>
-    <updated>2008-05-29T16:22:13+00:00</updated>
-    <link href="http://twitter.com/jackdanger/statuses/822618317" rel="alternate" type="text/html"/>
-  </entry>
+    <entry>
+      <title>jackdanger: tried: &quot;Total Immersion Swimming&quot; after viewing clips on YouTube.  did: &quot;Total Asphyxiation Drowning with bonus ahhh-help-me&quot;.</title>
+      <content type="html">jackdanger: tried: &quot;Total Immersion Swimming&quot; after viewing clips on YouTube.  did: &quot;Total Asphyxiation Drowning with bonus ahhh-help-me&quot;.</content>
+      <id>tag:twitter.com,2007:http://twitter.com/jackdanger/statuses/1094453189</id>
+      <published>2009-01-04T02:26:08+00:00</published>
+      <updated>2009-01-04T02:26:08+00:00</updated>
+      <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger/statuses/1094453189"/>
+      <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/55870974/Photo_171_cropped_normal.jpg"/>
+      <author>
+        <name>Jack Danger Canty</name>
+        <uri>http://6brand.com</uri>
+      </author>
+    </entry>
+    <entry>
+      <title>jackdanger: just thought of a bunch of excellent new years resolutions.  for 2010.</title>
+      <content type="html">jackdanger: just thought of a bunch of excellent new years resolutions.  for 2010.</content>
+      <id>tag:twitter.com,2007:http://twitter.com/jackdanger/statuses/1090667168</id>
+      <published>2009-01-01T23:42:54+00:00</published>
+      <updated>2009-01-01T23:42:54+00:00</updated>
+      <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger/statuses/1090667168"/>
+      <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/55870974/Photo_171_cropped_normal.jpg"/>
+      <author>
+        <name>Jack Danger Canty</name>
+        <uri>http://6brand.com</uri>
+      </author>
+    </entry>
+    <entry>
+      <title>jackdanger: for all the folks moving to static page blogs and github pages: http://disqus.com is javascript-powered comments.  I'm a happy camper.</title>
+      <content type="html">jackdanger: for all the folks moving to static page blogs and github pages: http://disqus.com is javascript-powered comments.  I'm a happy camper.</content>
+      <id>tag:twitter.com,2007:http://twitter.com/jackdanger/statuses/1066674845</id>
+      <published>2008-12-19T07:46:48+00:00</published>
+      <updated>2008-12-19T07:46:48+00:00</updated>
+      <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger/statuses/1066674845"/>
+      <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/55870974/Photo_171_cropped_normal.jpg"/>
+      <author>
+        <name>Jack Danger Canty</name>
+        <uri>http://6brand.com</uri>
+      </author>
+    </entry>
+    <entry>
+      <title>jackdanger: is listening to the charlie brown xmas soundtrack in his fav cafe watching snow blow through town.</title>
+      <content type="html">jackdanger: is listening to the charlie brown xmas soundtrack in his fav cafe watching snow blow through town.</content>
+      <id>tag:twitter.com,2007:http://twitter.com/jackdanger/statuses/1065791995</id>
+      <published>2008-12-18T21:38:19+00:00</published>
+      <updated>2008-12-18T21:38:19+00:00</updated>
+      <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger/statuses/1065791995"/>
+      <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/55870974/Photo_171_cropped_normal.jpg"/>
+      <author>
+        <name>Jack Danger Canty</name>
+        <uri>http://6brand.com</uri>
+      </author>
+    </entry>
+    <entry>
+      <title>jackdanger: finished my one-day sprint app.  buggy as hell but deployed.  when I write tests it should be fun to play with.</title>
+      <content type="html">jackdanger: finished my one-day sprint app.  buggy as hell but deployed.  when I write tests it should be fun to play with.</content>
+      <id>tag:twitter.com,2007:http://twitter.com/jackdanger/statuses/1060413504</id>
+      <published>2008-12-16T11:16:41+00:00</published>
+      <updated>2008-12-16T11:16:41+00:00</updated>
+      <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger/statuses/1060413504"/>
+      <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/55870974/Photo_171_cropped_normal.jpg"/>
+      <author>
+        <name>Jack Danger Canty</name>
+        <uri>http://6brand.com</uri>
+      </author>
+    </entry>
+    <entry>
+      <title>jackdanger: gave myself one evening to build a new app from napkin to deployment.  Hope to launch it before bed.</title>
+      <content type="html">jackdanger: gave myself one evening to build a new app from napkin to deployment.  Hope to launch it before bed.</content>
+      <id>tag:twitter.com,2007:http://twitter.com/jackdanger/statuses/1060231400</id>
+      <published>2008-12-16T07:55:00+00:00</published>
+      <updated>2008-12-16T07:55:00+00:00</updated>
+      <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger/statuses/1060231400"/>
+      <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/55870974/Photo_171_cropped_normal.jpg"/>
+      <author>
+        <name>Jack Danger Canty</name>
+        <uri>http://6brand.com</uri>
+      </author>
+    </entry>
+    <entry>
+      <title>jackdanger: @technoweenie I wish I could copy text just by having you look at it too</title>
+      <content type="html">jackdanger: @technoweenie I wish I could copy text just by having you look at it too</content>
+      <id>tag:twitter.com,2007:http://twitter.com/jackdanger/statuses/1059197798</id>
+      <published>2008-12-15T20:20:40+00:00</published>
+      <updated>2008-12-15T20:20:40+00:00</updated>
+      <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger/statuses/1059197798"/>
+      <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/55870974/Photo_171_cropped_normal.jpg"/>
+      <author>
+        <name>Jack Danger Canty</name>
+        <uri>http://6brand.com</uri>
+      </author>
+    </entry>
+    <entry>
+      <title>jackdanger: If you work hard you too can be this cool: http://tinyurl.com/2ow76v</title>
+      <content type="html">jackdanger: If you work hard you too can be this cool: http://tinyurl.com/2ow76v</content>
+      <id>tag:twitter.com,2007:http://twitter.com/jackdanger/statuses/1055023828</id>
+      <published>2008-12-13T08:30:43+00:00</published>
+      <updated>2008-12-13T08:30:43+00:00</updated>
+      <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger/statuses/1055023828"/>
+      <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/55870974/Photo_171_cropped_normal.jpg"/>
+      <author>
+        <name>Jack Danger Canty</name>
+        <uri>http://6brand.com</uri>
+      </author>
+    </entry>
+    <entry>
+      <title>jackdanger: need a friend? type in any console: &quot;telnet smtp.comcast.net 25&quot; then type &quot;HELO i@am.lonely.com&quot; and you'll get nice robot chat.</title>
+      <content type="html">jackdanger: need a friend? type in any console: &quot;telnet smtp.comcast.net 25&quot; then type &quot;HELO i@am.lonely.com&quot; and you'll get nice robot chat.</content>
+      <id>tag:twitter.com,2007:http://twitter.com/jackdanger/statuses/1054332027</id>
+      <published>2008-12-12T22:41:01+00:00</published>
+      <updated>2008-12-12T22:41:01+00:00</updated>
+      <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger/statuses/1054332027"/>
+      <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/55870974/Photo_171_cropped_normal.jpg"/>
+      <author>
+        <name>Jack Danger Canty</name>
+        <uri>http://6brand.com</uri>
+      </author>
+    </entry>
+    <entry>
+      <title>jackdanger: I was born 6 months before email was. http://www.faqs.org/rfcs/rfc821.html</title>
+      <content type="html">jackdanger: I was born 6 months before email was. http://www.faqs.org/rfcs/rfc821.html</content>
+      <id>tag:twitter.com,2007:http://twitter.com/jackdanger/statuses/1054313075</id>
+      <published>2008-12-12T22:29:11+00:00</published>
+      <updated>2008-12-12T22:29:11+00:00</updated>
+      <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger/statuses/1054313075"/>
+      <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/55870974/Photo_171_cropped_normal.jpg"/>
+      <author>
+        <name>Jack Danger Canty</name>
+        <uri>http://6brand.com</uri>
+      </author>
+    </entry>
+    <entry>
+      <title>jackdanger: now that the sky has fallen on the world economy our company has riskier and less polite opportunities available. Silver lining and all that</title>
+      <content type="html">jackdanger: now that the sky has fallen on the world economy our company has riskier and less polite opportunities available. Silver lining and all that</content>
+      <id>tag:twitter.com,2007:http://twitter.com/jackdanger/statuses/1048172815</id>
+      <published>2008-12-10T00:21:59+00:00</published>
+      <updated>2008-12-10T00:21:59+00:00</updated>
+      <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger/statuses/1048172815"/>
+      <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/55870974/Photo_171_cropped_normal.jpg"/>
+      <author>
+        <name>Jack Danger Canty</name>
+        <uri>http://6brand.com</uri>
+      </author>
+    </entry>
+    <entry>
+      <title>jackdanger: little known fact about emacs: best pinky workout available.</title>
+      <content type="html">jackdanger: little known fact about emacs: best pinky workout available.</content>
+      <id>tag:twitter.com,2007:http://twitter.com/jackdanger/statuses/1042758678</id>
+      <published>2008-12-07T01:01:31+00:00</published>
+      <updated>2008-12-07T01:01:31+00:00</updated>
+      <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger/statuses/1042758678"/>
+      <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/55870974/Photo_171_cropped_normal.jpg"/>
+      <author>
+        <name>Jack Danger Canty</name>
+        <uri>http://6brand.com</uri>
+      </author>
+    </entry>
+    <entry>
+      <title>jackdanger: @teflonted way to go!</title>
+      <content type="html">jackdanger: @teflonted way to go!</content>
+      <id>tag:twitter.com,2007:http://twitter.com/jackdanger/statuses/1042698859</id>
+      <published>2008-12-07T00:10:52+00:00</published>
+      <updated>2008-12-07T00:10:52+00:00</updated>
+      <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger/statuses/1042698859"/>
+      <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/55870974/Photo_171_cropped_normal.jpg"/>
+      <author>
+        <name>Jack Danger Canty</name>
+        <uri>http://6brand.com</uri>
+      </author>
+    </entry>
+    <entry>
+      <title>jackdanger: @kristinoblin the world is TINY!</title>
+      <content type="html">jackdanger: @kristinoblin the world is TINY!</content>
+      <id>tag:twitter.com,2007:http://twitter.com/jackdanger/statuses/1042380808</id>
+      <published>2008-12-06T19:48:36+00:00</published>
+      <updated>2008-12-06T19:48:36+00:00</updated>
+      <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger/statuses/1042380808"/>
+      <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/55870974/Photo_171_cropped_normal.jpg"/>
+      <author>
+        <name>Jack Danger Canty</name>
+        <uri>http://6brand.com</uri>
+      </author>
+    </entry>
+    <entry>
+      <title>jackdanger: @kellishaver &quot;nguong&quot; (I don't know which tone). &quot;tid-nguong&quot; is &quot;addicted to naps&quot; ;)</title>
+      <content type="html">jackdanger: @kellishaver &quot;nguong&quot; (I don't know which tone). &quot;tid-nguong&quot; is &quot;addicted to naps&quot; ;)</content>
+      <id>tag:twitter.com,2007:http://twitter.com/jackdanger/statuses/1042380489</id>
+      <published>2008-12-06T19:41:18+00:00</published>
+      <updated>2008-12-06T19:41:18+00:00</updated>
+      <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger/statuses/1042380489"/>
+      <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/55870974/Photo_171_cropped_normal.jpg"/>
+      <author>
+        <name>Jack Danger Canty</name>
+        <uri>http://6brand.com</uri>
+      </author>
+    </entry>
+    <entry>
+      <title>jackdanger: in Thai the word for &quot;busy&quot; translates as &quot;addicted to errands&quot;</title>
+      <content type="html">jackdanger: in Thai the word for &quot;busy&quot; translates as &quot;addicted to errands&quot;</content>
+      <id>tag:twitter.com,2007:http://twitter.com/jackdanger/statuses/1042343543</id>
+      <published>2008-12-06T19:16:57+00:00</published>
+      <updated>2008-12-06T19:16:57+00:00</updated>
+      <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger/statuses/1042343543"/>
+      <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/55870974/Photo_171_cropped_normal.jpg"/>
+      <author>
+        <name>Jack Danger Canty</name>
+        <uri>http://6brand.com</uri>
+      </author>
+    </entry>
+    <entry>
+      <title>jackdanger: just scheduled a tour of chocolate tasting here: http://www.theochocolate.com/  I fully expect my chocolate habit to only get worse.</title>
+      <content type="html">jackdanger: just scheduled a tour of chocolate tasting here: http://www.theochocolate.com/  I fully expect my chocolate habit to only get worse.</content>
+      <id>tag:twitter.com,2007:http://twitter.com/jackdanger/statuses/1041057454</id>
+      <published>2008-12-05T22:32:49+00:00</published>
+      <updated>2008-12-05T22:32:49+00:00</updated>
+      <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger/statuses/1041057454"/>
+      <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/55870974/Photo_171_cropped_normal.jpg"/>
+      <author>
+        <name>Jack Danger Canty</name>
+        <uri>http://6brand.com</uri>
+      </author>
+    </entry>
+    <entry>
+      <title>jackdanger: watching @tferriss makes me feel like I'm wasting all my time.</title>
+      <content type="html">jackdanger: watching @tferriss makes me feel like I'm wasting all my time.</content>
+      <id>tag:twitter.com,2007:http://twitter.com/jackdanger/statuses/1039840067</id>
+      <published>2008-12-05T08:49:12+00:00</published>
+      <updated>2008-12-05T08:49:12+00:00</updated>
+      <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger/statuses/1039840067"/>
+      <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/55870974/Photo_171_cropped_normal.jpg"/>
+      <author>
+        <name>Jack Danger Canty</name>
+        <uri>http://6brand.com</uri>
+      </author>
+    </entry>
+    <entry>
+      <title>jackdanger: @brookr  wow, way to go!</title>
+      <content type="html">jackdanger: @brookr  wow, way to go!</content>
+      <id>tag:twitter.com,2007:http://twitter.com/jackdanger/statuses/1037489112</id>
+      <published>2008-12-04T03:27:59+00:00</published>
+      <updated>2008-12-04T03:27:59+00:00</updated>
+      <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger/statuses/1037489112"/>
+      <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/55870974/Photo_171_cropped_normal.jpg"/>
+      <author>
+        <name>Jack Danger Canty</name>
+        <uri>http://6brand.com</uri>
+      </author>
+    </entry>
+    <entry>
+      <title>jackdanger: ok folks, what's the current best book for starting Rails?  How should newbs get going quickly with 2.2?</title>
+      <content type="html">jackdanger: ok folks, what's the current best book for starting Rails?  How should newbs get going quickly with 2.2?</content>
+      <id>tag:twitter.com,2007:http://twitter.com/jackdanger/statuses/1033239164</id>
+      <published>2008-12-02T00:08:45+00:00</published>
+      <updated>2008-12-02T00:08:45+00:00</updated>
+      <link type="text/html" rel="alternate" href="http://twitter.com/jackdanger/statuses/1033239164"/>
+      <link type="image/png" rel="image" href="http://s3.amazonaws.com/twitter_production/profile_images/55870974/Photo_171_cropped_normal.jpg"/>
+      <author>
+        <name>Jack Danger Canty</name>
+        <uri>http://6brand.com</uri>
+      </author>
+    </entry>
 </feed>
